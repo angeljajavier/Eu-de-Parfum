@@ -1,0 +1,17 @@
+<perfume>
+    <perfume brand = "Jo Malone">
+        <catalogue>
+            <scent_perfume>
+                <perfume_choices>
+                    
+                    <perfume_name></perfume_name>
+                    <perfume_prize></perfume_prize>
+                    <perfume_ml></perfume_ml>
+                    <perfume_notes></perfume_notes>
+                    
+
+                </perfume_choices>
+            </scent_perfume>
+        </catalogue>
+    </brand>
+</perfume>
